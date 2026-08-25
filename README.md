@@ -138,3 +138,7 @@ dotnet build
 ```
 
 Targets `net10.0`, nullable enabled, warnings treated as errors.
+
+## License
+
+[MIT](LICENSE)
